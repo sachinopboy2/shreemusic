@@ -31,7 +31,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 API_URL = getenv("API_URL", "https://apisparrow.site") #youtube song url
-API_KEY = getenv("API_KEY", None) # Get This API KEY FROM OWNER: @SpYtAPIBot
+API_KEY = getenv("API_KEY", "sparrowkKxUh57Rl0MiObJULluJlmCk") # Get This API KEY FROM OWNER: @SpYtAPIBot
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
